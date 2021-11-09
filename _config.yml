@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Table Of Contents
-description: Connects UH Students Based on their Surfing Ability and Recommends Surf Spots in their Location. 
+description: Connects UH Students Based on their Surfing Ability and Recommends Surf Spots Based on Location and Ability. 
 github:
   is_project_page: true
   repository_url: https://github.com/surf-connect/surf-connect.github.io
