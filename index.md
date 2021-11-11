@@ -41,6 +41,10 @@ The Surf Forecast page displays a list of surf spots and allows users to view up
 The Suggestions page displays a list of surf spots based on the user's surfing ability
 <img src="images/Suggestion-Mockup_page.png">
 
+## Milestone 1: Create HTML Mockup Pages
+Our main goal for milestone 1 is to create all of the HTML mockup pages using Semantic UI and React. By doing this, we will have a rough skeleton of the ui, so that we can figure out later how the data model will work to create user functionality.
+Milestone 1 was managed using
+
 ## Team
 * [Charlie Robison](https://charlie-robison.github.io/)
 * [Jonathan Ma](https://jonathan-ma.github.io/)
