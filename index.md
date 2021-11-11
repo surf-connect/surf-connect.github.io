@@ -39,7 +39,7 @@ The Surf Forecast page displays a list of surf spots and allows users to view up
 
 ### Suggestions Page
 The Suggestions page displays a list of surf spots based on the user's surfing ability
-<img scr="images/Suggestion-Page_Mockup.png">
+<img src="images/Suggestion-Mockup-page.png">
 
 ## Team
 * [Charlie Robison](https://charlie-robison.github.io/)
