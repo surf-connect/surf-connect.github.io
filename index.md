@@ -15,16 +15,27 @@ Surf Connect is a web application that address the problem where UH students fro
 * Must filter out users with similar surfing ability and similar times the users would like to surf.
 
 ## User Guide
+This section provides a walkthrough of the Surf Connect user interface and its capabilities.
 
 ### Landing Page
+The landing page is presented to users when they visit the top-level URL to the site.
+
 ### Home Page
+After logging in, you are taken to the home page, which allows users to view surfing spots around Oahu.
+
 ### Connect Page
+The Connect page displays all users. Users can connect with other surfers based on their surfing ability.
+
 ### User Page
-### Suggestions Page
+The User page allows users to edit their account information, and set their surfing level and location.
+
 ### Surf Forecast Page
+The Surf Forecast page displays a list of surf spots and allows users to view updated surf forecasts for each surf spot.
+
+### Suggestions Page
+The Suggestions page displays a list of surf spots based on the user's surfing ability
 
 ## Team
-
 * [Charlie Robison](https://charlie-robison.github.io/)
 * [Jonathan Ma](https://jonathan-ma.github.io/)
 * [Ian Manzano](https://ianbm.github.io/)
