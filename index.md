@@ -25,6 +25,7 @@ After logging in, you are taken to the home page, which allows users to view sur
 
 ### Connect Page
 The Connect page displays all users. Users can connect with other surfers based on their surfing ability.
+<img src="images/Connect-Page.png" >
 
 ### User Page
 The User page allows users to edit their account information, and set their surfing level and location.
