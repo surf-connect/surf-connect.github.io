@@ -19,9 +19,11 @@ This section provides a walkthrough of the Surf Connect user interface and its c
 
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
+<img src="images/Landing-Page.png" >
 
 ### Home Page
 After logging in, you are taken to the home page, which allows users to view surfing spots around Oahu.
+<img src="images/Home-Page.png" >
 
 ### Connect Page
 The Connect page displays all users. Users can connect with other surfers based on their surfing ability.
@@ -29,9 +31,11 @@ The Connect page displays all users. Users can connect with other surfers based 
 
 ### User Page
 The User page allows users to edit their account information, and set their surfing level and location.
+<img src="images/user-mockup.png" >
 
 ### Surf Forecast Page
 The Surf Forecast page displays a list of surf spots and allows users to view updated surf forecasts for each surf spot.
+<img src="images/forecast-mockup.png" >
 
 ### Suggestions Page
 The Suggestions page displays a list of surf spots based on the user's surfing ability
