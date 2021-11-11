@@ -27,7 +27,7 @@ After logging in, you are taken to the home page, which allows users to view sur
 <img src="images/Home-Page-Mockup.png" >
 
 ### Connect Page
-The Connect page displays all users. Users can connect with other surfers based on their surfing ability.
+Users are connected to each other based on surfing ability and the time of day they would like to surf. Users are able to click a message button on the user to message them or pin them by pressing a pin button to get their attention.
 <img src="images/Connect-Page.png" >
 
 ### User Page
