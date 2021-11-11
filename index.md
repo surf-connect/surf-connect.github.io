@@ -1,6 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Team](#team)
 
 ## Overview
 
@@ -11,3 +12,9 @@ Surf Connect is a web application that address the problem where UH students fro
 * Must allow users to interact with each other through some kind of private message system or like system.
 * The surf reports for the surf locations must be updated everyday based on actual data.
 * Must filter out users with similar surfing ability and similar times the users would like to surf.
+
+## Team
+
+* [Charlie Robison](https://charlie-robison.github.io/)
+* [Jonathan Ma](https://jonathan-ma.github.io/)
+* [Ian Manzano](https://ianbm.github.io/)
