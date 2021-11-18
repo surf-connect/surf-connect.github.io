@@ -33,7 +33,7 @@ After logging in, you are taken to the home page, which allows users to view sur
 
 ### Connect Page
 Users are connected to each other based on surfing ability and the time of day they would like to surf. Users are able to click a message button on the user to message them or pin them by pressing a pin button to get their attention.
-<img src="images/Connect-Page.png" >
+<img src="images/connect-html-mockup.png" >
 
 ### User Page
 The User page allows users to edit their account information, and set their surfing level and location. Users are also able to delete their account if needed..
@@ -45,7 +45,7 @@ The Surf Forecast page displays a list of surf spots and allows users to view up
 
 ### Suggestions Page
 The Suggestions page displays a list of surf spots based on the user's surfing ability.
-<img src="images/Suggestion-Mockup_page.png">
+<img src="images/suggestions-html-mockup.png">
 
 ## Development History
 
