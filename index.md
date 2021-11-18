@@ -36,12 +36,12 @@ Users are connected to each other based on surfing ability and the time of day t
 <img src="images/connect-html-mockup.png" >
 
 ### User Page
-The User page allows users to edit their account information, and set their surfing level and location. Users are also able to delete their account if needed..
-<img src="images/user-mockup.png" >
+The User page allows users to edit their account information, and set their surfing level and location. Users are also able to delete their account if needed.
+<img src="images/user-html-mockup.png" >
 
 ### Surf Forecast Page
 The Surf Forecast page displays a list of surf spots and allows users to view updated surf forecasts for each surf spot.
-<img src="images/forecast-mockup.png" >
+<img src="images/forecast-html-mockup.png" >
 
 ### Suggestions Page
 The Suggestions page displays a list of surf spots based on the user's surfing ability.
