@@ -1,4 +1,3 @@
-## Surf Connect
 
 ## Table of contents
 
