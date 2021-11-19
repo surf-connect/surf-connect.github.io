@@ -52,3 +52,8 @@ The Suggestions page displays a list of surf spots based on the user's surfing a
 ### Milestone 1: Create HTML Mockup Pages
 Our main goal for milestone 1 is to create all of the HTML mockup pages using Semantic UI and React. By doing this, we will have a rough skeleton of the ui, so that we can figure out later how the data model will work to create user functionality.
 Milestone 1 was managed using [Surf Connect Github Project Board M1:](https://github.com/surf-connect/surf-connect/projects/1)
+
+### Milestone 2: Create MongoDB Collections/ Allow Basic Website Functionality
+Our main goal for milestone 2 is to create all of the MongoDB collections required for this website. The collections created will be the User collection, Message collection, and Location collection. These collections will be connected to one another via one of the fields so that the functionality of the web app is possible. An example of this would be the User collection and Message collection will be connected by name, where the sender field in message will be connected to the sender's name, and the recipient'sname will be connected by the recipient's name. With this, all messages for a user will be easy to access. With that said, we would like to have an overall basic functionality to the website.
+Milestone 1 was managed using [Surf Connect Github Project Board M2:](https://github.com/surf-connect/surf-connect/projects/2)
+
