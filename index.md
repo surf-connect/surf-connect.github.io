@@ -1,3 +1,5 @@
+## Surf Connect
+
 ## Table of contents
 
 * [Team](#team)
