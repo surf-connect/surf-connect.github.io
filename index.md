@@ -25,11 +25,11 @@ This section provides a walkthrough of the Surf Connect user interface and its c
 
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
-<img src="images/Landing-Page-Mockup.png" >
+<img src="images/landing.jpg" >
 
 ### Home Page
-After logging in, you are taken to the home page, which allows users to view surfing spots around Oahu.
-<img src="images/Home-Page-Mockup.png" >
+After logging in, you are taken to the home page, which presents users top surfing locations around Oahu and randomly picked users that you can reach out to be surfing buddies.
+<img src="images/home.jpg" >
 
 ### Connect Page
 Users are connected to each other based on surfing ability and the time of day they would like to surf. Users are able to click a message button on the user to message them or pin them by pressing a pin button to get their attention.
