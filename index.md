@@ -48,8 +48,8 @@ The Surf Forecast page displays a list of surf spots and allows users to view up
 The Suggestions page displays a list of surf spots based on the user's surfing ability.
 <img src="images/suggestions-html-mockup.png">
 
-## Developers Guide
-
+## Developer Guide
+First things first clone the [repository](https://github.com/surf-connect/surf-connect). Next, you'll want to create a project in your IDE and point it to the repository. After that is all set up, run ```meteor npm run install```. Now you can run the project using the command ```meteor npm run start```.
 
 ## Development History
 
