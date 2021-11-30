@@ -4,6 +4,7 @@
 * [Team](#team)
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 
 ## Team
