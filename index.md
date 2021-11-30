@@ -48,6 +48,9 @@ The Surf Forecast page displays a list of surf spots and allows users to view up
 The Suggestions page displays a list of surf spots based on the user's surfing ability.
 <img src="images/suggestions-html-mockup.png">
 
+## Developers Guide
+
+
 ## Development History
 
 ### Milestone 1: Create HTML Mockup Pages
