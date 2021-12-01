@@ -39,7 +39,7 @@ After logging in, you are taken to the home page, which presents users top surfi
 
 ### Connect Page
 Users are connected to each other based on surfing ability and the time of day they would like to surf. Users are able to click a message button on the user to message them or pin them by pressing a pin button to get their attention.
-<img src="images/connect-html-mockup.png" >
+<img src="images/updatedConnectPage.png" >
 
 ### User Page
 If the logged in user has not already created a profile, they can do so by clicking on their email at the top right then selecting "My Profile." This will take the user to the Create Profile form:
