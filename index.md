@@ -42,7 +42,7 @@ Users are connected to each other based on surfing ability and the time of day t
 <img src="images/connect-html-mockup.png" >
 
 ### User Page
-If the logged in user has not already created a profile, they can do so by clicking on their email at the top right then selecting "My Profile." This will take the user to the Create Profile page:
+If the logged in user has not already created a profile, they can do so by clicking on their email at the top right then selecting "My Profile." This will take the user to the Create Profile form:
 <img src="images/Create-Profile-Form.png" >
 
 After a profile is created, selecting "My Profile" again will take the user to the User page which displays their information:
