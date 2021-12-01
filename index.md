@@ -1,7 +1,7 @@
 
 ## Table of contents
 * [Links](#links)
-* [Team](#team)
+* [Team](#team-members)
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
@@ -11,7 +11,7 @@
 * [Deployed app](https://surf-connect.xyz/#/)
 * [Repository](https://github.com/orgs/surf-connect/repositories)
 
-## Team
+## Team Members
 * [Charlie Robison](https://charlie-robison.github.io/)
 * [Jonathan Ma](https://jonathan-ma.github.io/)
 * [Ian Manzano](https://ianbm.github.io/)
