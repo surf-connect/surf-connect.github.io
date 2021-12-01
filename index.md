@@ -42,8 +42,17 @@ Users are connected to each other based on surfing ability and the time of day t
 <img src="images/connect-html-mockup.png" >
 
 ### User Page
-The User page allows users to edit their account information, and set their surfing level and location. Users are also able to delete their account if needed.
-<img src="images/user-html-mockup.png" >
+If the logged in user has not already created a profile, they can do so by clicking on their email at the top right then selecting "My Profile." This will take the user to the Create Profile page:
+<img src="images/Create-Profile-Form.png" >
+
+After a profile is created, selecting "My Profile" again will take the user to the User page which displays their information:
+<img src="images/User-Page.png" >
+
+The "Edit Profile" button will take the user to the Edit Profile form which allows the user to edit their profile:
+<img src="images/Edit-Profile-Form.png" >
+
+The "Delete Profile" button will take the user to the Delete Profile form which allows the user to delete their profile:
+<img src="images/Delete-Profile.png" >
 
 ### Surf Forecast Page
 The Surf Forecast page displays a list of surf spots and allows users to view updated surf forecasts for each surf spot.
