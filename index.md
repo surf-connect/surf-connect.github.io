@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/surf-connect/surf-connect/workflows/ci-surf-connect/badge.svg)
+
 
 ## Table of contents
 * [Links](#links)
