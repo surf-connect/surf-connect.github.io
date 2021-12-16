@@ -70,7 +70,7 @@ Our first feedback we got was that there was a bug where the connect page and su
 
 Another bug was the live data retreived from Surfline api. Once our app was deployed, the data loaded (surf location name and wave height etc.) will become static because we do not have an authorization key to keep updating from the api. This was solved by using a different api that does not require any authorization.
 
-A few users complained that for some surfing ability levels there are no location suggestions for their level. This is due to the fact that we rely on real-time data. Most of them require you to be very skilled at surfing so you might not see any locations for surfing ability level 3, but there are an abundance of locations for level 5. 
+A few users complained that for some surfing ability levels there are no location suggestions for their level. This is due to the fact that we rely on real-time data for suggestions. For example, today North Shore might be firing so level 5 surfers might get a full page of location suggestions while level 3 and below might simply get a blank page.
 
 ## Developer Guide
 First things first, clone the [repository](https://github.com/surf-connect/surf-connect) to your machine. Next, you'll want to create a project in your IDE and point it to the repository. After all that is set up, run ```meteor npm run install```, this installs all the necessary packages Meteor needs. Now you can run the project using the command ```meteor npm run start``` and make any changes you like to the application!
