@@ -8,6 +8,7 @@
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
+* [Link to Deployed App](#link-to-deployed-app)
 * [Development History](#development-history)
 
 ## Links
